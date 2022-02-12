@@ -1,0 +1,14 @@
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\bin\Debug\net6.0\Employee.Data.deps.json
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\bin\Debug\net6.0\Employee.Data.runtimeconfig.json
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\bin\Debug\net6.0\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\bin\Debug\net6.0\ref\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\bin\Debug\net6.0\Employee.Data.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.csproj.AssemblyReference.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.AssemblyInfoInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.AssemblyInfo.cs
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.csproj.CoreCompileInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\ref\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Data\obj\Debug\net6.0\Employee.Data.genruntimeconfig.cache

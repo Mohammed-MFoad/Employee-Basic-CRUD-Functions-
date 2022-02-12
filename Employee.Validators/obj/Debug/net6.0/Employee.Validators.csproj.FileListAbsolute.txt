@@ -1,0 +1,17 @@
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.Validators.deps.json
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.Validators.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\ref\Employee.Validators.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.Validators.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.AssemblyInfoInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.AssemblyInfo.cs
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.csproj.CoreCompileInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\ref\Employee.Validators.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.DTO.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.DTO.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\bin\Debug\net6.0\Employee.Data.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.csproj.AssemblyReference.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Validators\obj\Debug\net6.0\Employee.Validators.csproj.CopyComplete

@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.API\\Employee.API.csproj": {}
+  },
+  "projects": {
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.API\\Employee.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.API\\Employee.API.csproj",
+        "projectName": "Employee.API",
+        "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.API\\Employee.API.csproj",
+        "packagesPath": "C:\\Users\\M Foad\\.nuget\\packages\\",
+        "outputPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M Foad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://pkgs.dev.azure.com/FORTTECK/_packaging/FortTeckNugetPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj"
+              },
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj"
+              },
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\Employee.Services.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\Employee.Services.csproj"
+              },
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\Employee.Validators.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\Employee.Validators.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj",
+        "projectName": "Employee.Data",
+        "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj",
+        "packagesPath": "C:\\Users\\M Foad\\.nuget\\packages\\",
+        "outputPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M Foad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://pkgs.dev.azure.com/FORTTECK/_packaging/FortTeckNugetPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj",
+        "projectName": "Employee.DTO",
+        "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj",
+        "packagesPath": "C:\\Users\\M Foad\\.nuget\\packages\\",
+        "outputPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M Foad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://pkgs.dev.azure.com/FORTTECK/_packaging/FortTeckNugetPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\Employee.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\Employee.Services.csproj",
+        "projectName": "Employee.Services",
+        "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\Employee.Services.csproj",
+        "packagesPath": "C:\\Users\\M Foad\\.nuget\\packages\\",
+        "outputPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M Foad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://pkgs.dev.azure.com/FORTTECK/_packaging/FortTeckNugetPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Data\\Employee.Data.csproj"
+              },
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\Employee.Validators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\Employee.Validators.csproj",
+        "projectName": "Employee.Validators",
+        "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\Employee.Validators.csproj",
+        "packagesPath": "C:\\Users\\M Foad\\.nuget\\packages\\",
+        "outputPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.Validators\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M Foad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://pkgs.dev.azure.com/FORTTECK/_packaging/FortTeckNugetPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj": {
+                "projectPath": "F:\\PROOOOOOOS\\LuftBorn\\Employee\\Employee.DTO\\Employee.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

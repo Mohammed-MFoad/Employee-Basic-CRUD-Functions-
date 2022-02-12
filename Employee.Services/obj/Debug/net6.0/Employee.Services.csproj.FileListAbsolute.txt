@@ -1,0 +1,17 @@
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.Services.deps.json
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.Services.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\ref\Employee.Services.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.Services.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.Data.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.DTO.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.Data.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\bin\Debug\net6.0\Employee.DTO.pdb
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.csproj.AssemblyReference.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.AssemblyInfoInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.AssemblyInfo.cs
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.csproj.CoreCompileInputs.cache
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.csproj.CopyComplete
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\ref\Employee.Services.dll
+F:\PROOOOOOOS\LuftBorn\Employee\Employee.Services\obj\Debug\net6.0\Employee.Services.pdb
